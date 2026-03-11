@@ -1,7 +1,7 @@
 # Student-Performance-Prediction
 Comparing the performance of various regression models on the Students' Exam Performance dataset, to determine which model performs the best.
 
-Gradio link: https://e626c63063016010fd.gradio.live/
+Gradio link: https://7ec911dd0e4d380ee8.gradio.live/
 
 Model Performance Comparison:
   Model	                                  RMSE	         R2 Score
